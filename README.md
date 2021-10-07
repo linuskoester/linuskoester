@@ -2,7 +2,7 @@
 
 - Feel free to take a look at my repositories 👀
 - I'm currently working on **[@wahlrechner](https://github.com/wahlrechner)** 🔭
-- Please contact me if you are interested in my code 📫
+- Please contact me at `hi@crazyeasy.dev` if you are interested in my code 📫
 
 
 
