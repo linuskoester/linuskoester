@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Feel free to take a look at my repositories 👀
+
+
+
 <!--
 **CrazyEasy/crazyeasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
