@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - Feel free to take a look at my repositories 👀
-- I'm currently working on **[@wahlrechner](https://github.com/wahlrechner)** 🔭
 - Please contact me at `linus@crazyeasy.dev` if you are interested in my code 📫
 
 
