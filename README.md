@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Feel free to take a look at my repositories 👀
-- Please contact me at `linus@crazyeasy.dev` if you are interested in my code 📫
+- Please contact me at `hi@linus.foo` if you are interested in my code 📫
 
 
 
