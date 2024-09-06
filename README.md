@@ -3,9 +3,6 @@
 - Feel free to take a look at my repositories 👀
 - Please contact me at `hi@linus.foo` if you are interested in my code 📫
 
-**My pentesting notes:**
-- My writeups can be found here: https://linus.foo/writeups 🗒️
-- You can also check out my toolbox: https://linus.foo/toolbox 🧰
 
 
 <!--
